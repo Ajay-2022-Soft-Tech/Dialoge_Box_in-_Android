@@ -18,14 +18,10 @@ Here Some types of Dialog box I made eg. Alert, ,Radio_Button_Alert , Check_Box_
 // Pictures of Projects
 
 
-![5](https://github.com/Ajay-2022-Soft-Tech/Dialoge_Box_in-_Android/assets/113298640/0232937f-06cf-480c-8c62-28e79e188f33)
-![4](https://github.com/Ajay-2022-Soft-Tech/Dialoge_Box_in-_Android/assets/113298640/f4030191-80eb-4c15-8949-dfba212efa22)
-![1](https://github.com/Ajay-2022-Soft-Tech/Dialoge_Box_in-_Android/assets/113298640/8cab8ef0-7632-4403-9433-1f5f8367bde4)
-![Uploading 5.png…]()
-![Uploading 3.png…]()
-![1](https://github.com/Ajay-2022-Soft-Tech/Dialoge_Box_in-_Android/assets/113298640/15e07ef6-c231-4fd5-b1be-3538f071dae5)
-![Uploading 3.png…]()
-![Uploading 2.png…]()
-![4](https://github.com/Ajay-2022-Soft-Tech/Dialoge_Box_in-_Android/assets/113298640/d45176cd-e9ea-48a4-a7f1-471d127c8351)
-![Uploading 2.png…]()
 ![Uploading 1.png…]()
+![1](https://github.com/Ajay-2022-Soft-Tech/Dialoge_Box_in-_Android/assets/113298640/8cab8ef0-7632-4403-9433-1f5f8367bde4)
+![Uploading 2.png…]()
+![Uploading 3.png…]()
+![4](https://github.com/Ajay-2022-Soft-Tech/Dialoge_Box_in-_Android/assets/113298640/f4030191-80eb-4c15-8949-dfba212efa22)
+![5](https://github.com/Ajay-2022-Soft-Tech/Dialoge_Box_in-_Android/assets/113298640/0232937f-06cf-480c-8c62-28e79e188f33)
+![Uploading 5.png…]()
